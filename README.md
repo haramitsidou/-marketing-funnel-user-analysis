@@ -38,11 +38,10 @@ The aim is to uncover funnel bottlenecks, understand what drives user conversion
 
 ## 📊 Sample Visuals
 
-> *(Add your saved charts in a `visuals/` folder and reference them here)*
-
-![User Funnel](visuals/funnel.png)
-![Top UTM Sources Drop-off](visuals/utm_dropoff.png)
-![Document Submission](visuals/docs_status.png)
+![User Funnel](user funnel.png)
+![Top UTM Sources Drop-Off](top utm sourcess.png)
+![Top Countries Drop-Off](top_countries_dropoff.png)
+![Correlation Matrix](correlation matrix.png)
 
 ---
 
