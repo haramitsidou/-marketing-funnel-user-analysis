@@ -43,7 +43,7 @@ The aim is to uncover funnel bottlenecks, understand what drives user conversion
 ![Top UTM Sources Drop-Off](top_utm_sourcess.png)
 
 <img src="top_countries_dropoff.png" alt="Top Countries Drop-Off" width="60%">
-
+<br>
 
 ![Correlation Matrix](correlation matrix.png)
 
