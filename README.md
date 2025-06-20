@@ -38,10 +38,14 @@ The aim is to uncover funnel bottlenecks, understand what drives user conversion
 
 ## 📊 Sample Visuals
 
-![User Funnel](user funnel.png)
-![Top UTM Sources Drop-Off](top utm sourcess.png)
+![User Funnel](user_funnel.png)
+
+![Top UTM Sources Drop-Off](top_utm_sourcess.png)
+
 ![Top Countries Drop-Off](top_countries_dropoff.png)
+
 ![Correlation Matrix](correlation matrix.png)
+
 
 ---
 
